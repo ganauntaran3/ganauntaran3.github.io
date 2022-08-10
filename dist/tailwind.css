@@ -1026,7 +1026,7 @@ span.about_information-subtitle-small {
 }
 
 .skills_js {
-  width: 70%;
+  width: 65%;
 }
 
 .skills_laravel {
@@ -1035,6 +1035,14 @@ span.about_information-subtitle-small {
 
 .skills_nodejs {
   width: 40%;
+}
+
+.skills_office {
+  width: 90%;
+}
+
+.skills_powerapp {
+  width: 50%;
 }
 
 /* =======EDUCATION========== */
@@ -1282,7 +1290,7 @@ span.about_information-subtitle-small {
 }
 
 .contact_text {
-  padding-left: 1rem;
+  padding-left: 0.25rem;
   display: block;
 }
 
